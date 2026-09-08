@@ -1,7 +1,30 @@
 @import "tailwindcss";
 @theme { --font-sans: "Pretendard", "Noto Sans KR", sans-serif; }
-:root { font-family: var(--font-sans); font-synthesis: none; text-rendering: optimizeLegibility; }
+:root {
+  --color-brand-primary: #1EC95B;
+  --color-brand-point: #FC1D01;
+  --color-link-default: #006BC8;
+  --color-bg-default: #F5F5F7;
+  --color-border-default: #DADADA;
+  --color-border-light: #E4E8F1;
+  --color-text-01: #000000;
+  --color-text-02: #333333;
+  --color-text-03: #666666;
+  --color-text-04: #999999;
+  --shadow-neutral-01: 0 4px 10px rgba(0, 0, 0, .04);
+  --shadow-blue-02: 0 8px 20px #EBEFF4;
+  --z-content: 0;
+  --z-header: 100;
+  --z-dropdown: 200;
+  --z-floating: 300;
+  --z-overlay: 400;
+  --z-modal: 500;
+  font-family: var(--font-sans);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; min-width: 320px; }
 button, a { -webkit-tap-highlight-color: transparent; }
+svg { display: block; flex-shrink: 0; pointer-events: none; }
