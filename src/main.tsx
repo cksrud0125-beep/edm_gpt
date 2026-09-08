@@ -20,7 +20,7 @@ function Icon({ name, size = 20 }: { name: "search" | "user" | "menu" | "logout"
   return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">{paths}</svg>;
 }
 
-function Logo() { return <a href="#top" className="flex items-baseline gap-1.5 text-[#333]"><strong className="text-[25px] font-black tracking-[-.13em] text-[#444]">ed<span className="text-[#54b948]">:</span>m</strong><span className="text-[12px] font-bold">유학센터</span></a>; }
+function Logo() { return <a href="#top" aria-label="edm 유학센터 홈" className="block"><img src="/edm-logo.svg" alt="edm 유학센터" className="h-[22px] w-auto md:h-[35px]" /></a>; }
 
 function Header() { return <header className="relative z-[var(--z-header)] flex h-[60px] items-center justify-between border-b border-[#eee] bg-white px-5 md:h-[64px] md:px-[120px]"><Logo /><nav className="hidden items-center gap-10 text-[11px] font-medium md:flex"><a href="#program">어학연수</a><a href="#program">해외대학</a><a href="#program">조기유학/캠프</a><a href="#guide">아트유학</a><a href="#guide">유학후기</a><a href="#guide">고객혜택</a><a href="#guide">회사소개</a></nav><div className="flex items-center gap-5"><button className="hidden items-center gap-3 rounded-full bg-[#E2E2E5] px-4 py-2 text-[10px] md:flex"><Icon name="search" size={15} />프로그램 <span className="h-3 border-l border-[#333]" /> 학교</button><button aria-label="로그인" className="text-[#333]"><Icon name="user" size={20} /></button><button aria-label="로그아웃" className="text-[#333]"><Icon name="logout" size={20} /></button><button aria-label="메뉴" className="text-[#333]"><Icon name="menu" size={20} /></button></div></header>; }
 
