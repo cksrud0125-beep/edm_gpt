@@ -33,6 +33,11 @@ svg { display: block; flex-shrink: 0; pointer-events: none; }
   .banner-track { transform: translateX(calc(-1 * min(var(--banner-offset, 0px), 2662px))); transition: transform 600ms ease; width: max-content; }
 }
 
+/* Preserve the 1920px composition while centering the fixed carousel on wider canvases. */
+@media (min-width: 1921px) {
+  #program > div { margin-left: auto; margin-right: auto; }
+}
+
 .bg-banner-1 { background-image: url('https://www.figma.com/api/mcp/asset/2b7a5f5f-d1f7-4d18-9dd5-dfd1df1a3f24.png'); }
 .bg-banner-2 { background-image: url('https://www.figma.com/api/mcp/asset/b6df0645-26ee-496e-b84f-d607d668ff38.png'); }
 .bg-banner-3 { background-image: url('https://www.figma.com/api/mcp/asset/779f81e0-2b49-4c99-92f3-2b6b43b65eff.png'); }
