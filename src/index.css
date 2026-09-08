@@ -28,14 +28,17 @@ html { scroll-behavior: smooth; }
 body { margin: 0; min-width: 320px; }
 button, a { -webkit-tap-highlight-color: transparent; }
 svg { display: block; flex-shrink: 0; pointer-events: none; }
-@media (min-width: 768px) {
-  #program > div { max-width: 1248px; margin-left: 0; margin-right: 0; }
+@media (min-width: 1001px) {
+  #program > div { max-width: none; margin-left: 0; margin-right: 0; }
   .banner-track { transform: translateX(calc(-1 * min(var(--banner-offset, 0px), 2662px))); transition: transform 600ms ease; width: max-content; }
 }
 
-/* Preserve the 1920px composition while centering the fixed carousel on wider canvases. */
-@media (min-width: 1921px) {
-  #program > div { margin-left: auto; margin-right: auto; }
+@media (max-width: 1000px) {
+  #program { padding-right: 20px; }
+  #program > div { max-width: none; }
+  .banner-track { transform: translateX(calc(-1 * var(--banner-offset, 0px))); transition: transform 600ms ease; width: max-content; }
+  .banner-track > div { width: calc(100vw - 40px) !important; min-width: calc(100vw - 40px); }
+  .banner-track article { height: 195px; min-width: calc(100vw - 40px); border-radius: 12px; padding: 20px; }
 }
 
 .bg-banner-1 { background-image: url('https://www.figma.com/api/mcp/asset/2b7a5f5f-d1f7-4d18-9dd5-dfd1df1a3f24.png'); }
