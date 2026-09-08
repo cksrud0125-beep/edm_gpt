@@ -28,3 +28,6 @@ html { scroll-behavior: smooth; }
 body { margin: 0; min-width: 320px; }
 button, a { -webkit-tap-highlight-color: transparent; }
 svg { display: block; flex-shrink: 0; pointer-events: none; }
+@media (min-width: 768px) {
+  #program > div { max-width: 1248px; margin-left: 0; margin-right: 0; }
+}
