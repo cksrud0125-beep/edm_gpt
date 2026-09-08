@@ -30,7 +30,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 svg { display: block; flex-shrink: 0; pointer-events: none; }
 @media (min-width: 768px) {
   #program > div { max-width: 1248px; margin-left: 0; margin-right: 0; }
-  .banner-track { transform: translateX(calc(-1 * min(var(--banner-offset, 0px), 2704px))); transition: transform 600ms ease; width: max-content; }
+  .banner-track { transform: translateX(calc(-1 * min(var(--banner-offset, 0px), 2662px))); transition: transform 600ms ease; width: max-content; }
 }
 
 .bg-banner-1 { background-image: url('https://www.figma.com/api/mcp/asset/2b7a5f5f-d1f7-4d18-9dd5-dfd1df1a3f24.png'); }
