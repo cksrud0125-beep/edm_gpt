@@ -41,6 +41,14 @@ svg { display: block; flex-shrink: 0; pointer-events: none; }
   .banner-track article { height: 195px; min-width: calc(100vw - 40px); border-radius: 12px; padding: 20px; }
 }
 
+@media (min-width: 1001px) and (max-width: 1499px) {
+  #program > div { max-width: 1248px; }
+}
+
+@media (min-width: 1500px) {
+  #program > div { max-width: none; }
+}
+
 .bg-banner-1 { background-image: url('https://www.figma.com/api/mcp/asset/2b7a5f5f-d1f7-4d18-9dd5-dfd1df1a3f24.png'); }
 .bg-banner-2 { background-image: url('https://www.figma.com/api/mcp/asset/b6df0645-26ee-496e-b84f-d607d668ff38.png'); }
 .bg-banner-3 { background-image: url('https://www.figma.com/api/mcp/asset/779f81e0-2b49-4c99-92f3-2b6b43b65eff.png'); }
