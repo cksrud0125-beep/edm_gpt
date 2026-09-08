@@ -9,6 +9,9 @@ const banners: Banner[] = [
   { image: "https://www.figma.com/api/mcp/asset/b6df0645-26ee-496e-b84f-d607d668ff38.png", title: "특별한 유학 생활\n다양한 커뮤니티", subtitle: "edm유학센터 수속 고객 단독 제공" },
   { image: "https://www.figma.com/api/mcp/asset/8697b1a3-b315-477d-a2f6-f9f2110ce67d.png", title: "업계 최고 수준의\n특별한 혜택", subtitle: "edm유학센터 수속 고객 단독 제공" },
   { image: "https://www.figma.com/api/mcp/asset/c2e21ceb-2e28-4b58-a174-ca082b35315c.png", title: "안전 유학 원칙\n고객을 위한 진심", subtitle: "검증된 학교 추천, 투명한 절차", light: true },
+  { image: "https://www.figma.com/api/mcp/asset/b1a90317-3f04-4631-aebd-ebc93c36da9a.png", title: "특별한 유학 생활을 만드는\n다양한 커뮤니티 활동", subtitle: "edm유학센터 수속 고객 단독 제공", light: true },
+  { image: "https://www.figma.com/api/mcp/asset/f33c5700-229b-4598-97d4-4ada1f42e2a8.png", title: "30대 이상 어학연수", subtitle: "30대 이상 성인 어학연수" },
+  { image: "https://www.figma.com/api/mcp/asset/0c8dcb49-383c-45d5-b448-0c3570e060f2.png", title: "호주유학\n추천 포인트 5", subtitle: "영국 랭킹 TOP 명문대 입학의 가장 확실한 길", light: true },
 ];
 
 const cls = (...values: Array<string | false | undefined>) => values.filter(Boolean).join(" ");
