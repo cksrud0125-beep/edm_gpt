@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@theme { --font-sans: "Pretendard", "Noto Sans KR", sans-serif; }
+@theme { --font-sans: "Pretendard", sans-serif; }
 :root {
   --color-brand-primary: #1EC95B;
   --color-brand-point: #FC1D01;
@@ -24,16 +24,17 @@
   text-rendering: optimizeLegibility;
 }
 * { box-sizing: border-box; }
+#program > div > div.mt-6 > div > span { font-family: var(--font-sans) !important; }
 html { scroll-behavior: smooth; }
 body { margin: 0; min-width: 320px; }
 button, a { -webkit-tap-highlight-color: transparent; }
 svg { display: block; flex-shrink: 0; pointer-events: none; }
-@media (min-width: 1001px) {
+@media (min-width: 991px) {
   #program > div { max-width: none; margin-left: 0; margin-right: 0; }
   .banner-track { transform: translateX(calc(-1 * var(--banner-offset, 0px))); transition: transform 600ms ease; width: max-content; }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 990px) {
   #program { padding-right: 20px; }
   #program > div { max-width: none; }
   .banner-track { transform: translateX(calc(-1 * var(--banner-offset, 0px))); transition: transform 600ms ease; width: max-content; }
@@ -41,12 +42,18 @@ svg { display: block; flex-shrink: 0; pointer-events: none; }
   .banner-track article { height: 195px; min-width: calc(100vw - 40px); border-radius: 12px; padding: 20px; }
 }
 
-@media (min-width: 1001px) and (max-width: 1499px) {
+@media (min-width: 991px) {
+  .banner-track > div { width: min(480px, 25vw) !important; min-width: min(480px, 25vw); }
+  .banner-track article { height: auto; min-width: 100%; aspect-ratio: 480 / 390; }
+}
+
+@media (min-width: 991px) and (max-width: 1499px) {
   #program > div { max-width: 1248px; }
 }
 
 @media (min-width: 1500px) {
   #program > div { max-width: none; }
+  #program { padding-bottom: 78px; }
 }
 
 @media (max-width: 1499px) {
@@ -65,6 +72,11 @@ svg { display: block; flex-shrink: 0; pointer-events: none; }
   aside > div > a {
     min-width: 0;
   }
+}
+
+@keyframes edm-greet {
+  0%, 100% { transform: rotate(-2deg) translateY(0); }
+  50% { transform: rotate(2deg) translateY(-4px); }
 }
 
 .bg-banner-1 { background-image: url('https://www.figma.com/api/mcp/asset/2b7a5f5f-d1f7-4d18-9dd5-dfd1df1a3f24.png'); }
@@ -89,3 +101,18 @@ svg { display: block; flex-shrink: 0; pointer-events: none; }
 .review-five { background-image: url('https://www.figma.com/api/mcp/asset/2b7a5f5f-d1f7-4d18-9dd5-dfd1df1a3f24.png'); }
 .review-six { background-image: url('https://www.figma.com/api/mcp/asset/779f81e0-2b49-4c99-92f3-2b6b43b65eff.png'); }
 .review-seven { background-image: url('https://www.figma.com/api/mcp/asset/b6df0645-26ee-496e-b84f-d607d668ff38.png'); }
+
+
+/* Shared banner/Eddy alignment: 1680px content, at least 120px desktop gutters. */
+#program{--program-content-left:20px}
+#program>.eddy-below-banner{left:var(--program-content-left)}
+@media(min-width:991px){
+ #program{--program-content-left:max(120px,calc((100% - 1680px)/2));padding-left:var(--program-content-left)}
+}
+/* Original artwork and editable HTML copy are separate layers. */
+#program .banner-track article.home-banner{position:relative;container-type:inline-size;overflow:hidden;border-radius:24px;background:#F5F5F7;aspect-ratio:480/390;height:auto;min-width:100%;font-family:Pretendard,sans-serif}
+.home-banner-image{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:cover;pointer-events:none;user-select:none}
+.home-banner-copy{position:relative;padding:8.333cqw;user-select:text;cursor:text}
+.home-banner-copy h2{font-size:8.333cqw;line-height:1.3;font-weight:700;letter-spacing:-.02em;margin:0;white-space:pre-line;word-break:keep-all;overflow-wrap:normal;color:inherit}
+.home-banner-copy p{font-size:4.167cqw;line-height:1.5;font-weight:400;letter-spacing:-.01em;white-space:pre-line;word-break:keep-all;margin:3.333cqw 0 0;color:inherit}
+@media(max-width:990px){#program .banner-track article.home-banner{border-radius:12px;padding:0}}

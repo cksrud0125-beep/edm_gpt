@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": { "dev": "vite --host 0.0.0.0", "build": "tsc --noEmit && vite build", "preview": "vite preview --host 0.0.0.0" },
+  "scripts": { "sync:programs": "node scripts/sync-programs.mjs", "test:recommendations": "node scripts/test-program-recommendations.mjs", "dev": "vite --host 0.0.0.0", "build": "tsc --noEmit && vite build", "preview": "vite preview --host 0.0.0.0" },
   "dependencies": { "@tailwindcss/vite": "latest", "@vitejs/plugin-react": "latest", "react": "latest", "react-dom": "latest", "tailwindcss": "latest" },
   "devDependencies": { "@types/react": "latest", "@types/react-dom": "latest", "typescript": "latest", "vite": "latest" }
 }

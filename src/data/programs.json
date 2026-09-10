@@ -1,0 +1,1648 @@
+{
+  "source": "https://www.edmuhak.com/programs",
+  "checkedAt": "2026-09-09T06:35:49.909Z",
+  "programs": [
+    {
+      "id": "dndn-package",
+      "title": "어학연수 하반기 특가 오픈",
+      "titleLines": [
+        "어학연수 하반기 특가",
+        "오픈"
+      ],
+      "titleColor": "#ffffff",
+      "description": "학비 인상 전, 인기 어학원·숙소를 먼저 확보하세요!",
+      "url": "https://www.edmuhak.com/programs/dndn-package",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202606051407_c09319a036f77a177c1761e7d3f22fe1.png"
+    },
+    {
+      "id": "special-university-abroad",
+      "title": "# 해외대학 진학 특별전",
+      "titleLines": [
+        "# 해외대학 진학 특별전"
+      ],
+      "titleColor": "#ffffff",
+      "description": "내 성적으로 진학 가능한 대학 1:1 맞춤 컨설팅",
+      "url": "https://www.edmuhak.com/programs/special-university-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601160926_9f1b6f701499fce5830778b5bb2022f9.jpg"
+    },
+    {
+      "id": "univ-uk-masters-course",
+      "title": "[속보] 영국 석사 무료 수속 서비스",
+      "titleLines": [
+        "[속보] 영국 석사",
+        "무료 수속 서비스"
+      ],
+      "titleColor": "#0d1017",
+      "description": "영국 대학·대학원 전문 컨설팅, 파트너 대학 지원 수속비 0원",
+      "url": "https://www.edmuhak.com/programs/univ-uk-masters-course",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604171543_675e27ffdc1db7bec22f1b5d03195a4c.png"
+    },
+    {
+      "id": "charlesenter",
+      "title": "# 찰스엔터 추천 어학연수",
+      "titleLines": [
+        "# 찰스엔터",
+        "추천 어학연수"
+      ],
+      "titleColor": "#000000",
+      "description": "초절정 인기 유튜버, 그녀가 다녀온 어학연수는?!",
+      "url": "https://www.edmuhak.com/programs/charlesenter",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161631_14d12799a3b1414ab71c317d26e9efef.jpg"
+    },
+    {
+      "id": "sparta",
+      "title": "2026 SUMMER 여름방학 스파르타",
+      "titleLines": [
+        "2026 SUMMER",
+        "여름방학 스파르타"
+      ],
+      "titleColor": "#ffffff",
+      "description": "방학 특강! 극한의 스케줄! 포트폴리오 단기 완성 과정",
+      "url": "https://www.edmuhak.com/programs/sparta",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202606161538_b153add061d805032af8df14e7771854.jpg"
+    },
+    {
+      "id": "australia-uhak-point",
+      "title": "결과를 바꾸는 호주 명문대 로드맵",
+      "titleLines": [
+        "결과를 바꾸는",
+        "호주 명문대 로드맵"
+      ],
+      "titleColor": "#ffffff",
+      "description": "전 세계 1% G8 진학 루트부터 현지 취업 및 영주권 가산점 전략까지 지금 확인하세요.",
+      "url": "https://www.edmuhak.com/programs/australia-uhak-point",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191638_6d4af47b100f7658eb80a7816f6019ce.jpg"
+    },
+    {
+      "id": "medical-abroad",
+      "title": "해외 의대 진학 완전 정복",
+      "titleLines": [
+        "해외 의대 진학",
+        "완전 정복"
+      ],
+      "titleColor": "#000000",
+      "description": "국내보다 훨씬 열린 영국·미국·호주 의대의 모든 것",
+      "url": "https://www.edmuhak.com/programs/medical-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605181625_9b2ffe1e0f50605c2bd06c7075f49ca6.png"
+    },
+    {
+      "id": "pharmacy-abroad",
+      "title": "내 성적으로 가능한 해외 약대 전략",
+      "titleLines": [
+        "내 성적으로 가능한",
+        "해외 약대 전략"
+      ],
+      "titleColor": "#000000",
+      "description": "국내보다 훨씬 열려있는 영국, 미국, 호주 약대의 모든 것",
+      "url": "https://www.edmuhak.com/programs/pharmacy-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202607270837_e68f8b248d0c841d3dba178e3e044177.png"
+    },
+    {
+      "id": "nursing-abroad",
+      "title": "더 큰 기회를 여는 해외 간호대 진학",
+      "titleLines": [
+        "더 큰 기회를 여는",
+        "해외 간호대 진학"
+      ],
+      "titleColor": "#000000",
+      "description": "높은 보상, 현지 면허, 해외 취업 확장성까지 - 영국·미국·호주 간호대로 도전하세요!",
+      "url": "https://www.edmuhak.com/programs/nursing-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202607271632_16e1948f01f606b019a27d456c30213d.png"
+    },
+    {
+      "id": "thirty-plus-abroad",
+      "title": "30대 이상을 위한 어학연수 플랜",
+      "titleLines": [
+        "30대 이상을 위한",
+        "어학연수 플랜"
+      ],
+      "titleColor": "#000000",
+      "description": "휴직·리프레시·커리어 등 목적에 따라 선택 가능",
+      "url": "https://www.edmuhak.com/programs/thirty-plus-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161336_0340aa0a69638a4f54ac917514c3a7a7.jpg"
+    },
+    {
+      "id": "transfer-finals",
+      "title": "가장 확실한 해외 미대 편입 루트",
+      "titleLines": [
+        "가장 확실한",
+        "해외 미대 편입 루트"
+      ],
+      "titleColor": "#ffffff",
+      "description": "탑티어 명문대 간판부터 전공 재도전, 글로벌 취업까지",
+      "url": "https://www.edmuhak.com/programs/transfer-finals",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605211652_1d4f7ef1e537e2ed61236c3d0509c5f1.jpg"
+    },
+    {
+      "id": "special-offer-univ",
+      "title": "대학생을 위한 어학연수 특별 혜택",
+      "titleLines": [
+        "대학생을 위한 어학연수 특별 혜택"
+      ],
+      "titleColor": "#000000",
+      "description": "어학연수를 고민 중이라면, 대학생 전용 혜택부터 확인해 보세요.",
+      "url": "https://www.edmuhak.com/programs/special-offer-univ",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604231536_d5aa3dd9d1f8cfd2cdf4a04000c8c420.png"
+    },
+    {
+      "id": "soldier-language",
+      "title": "군인 전용 어학연수 특별 혜택",
+      "titleLines": [
+        "군인 전용",
+        "어학연수 특별 혜택"
+      ],
+      "titleColor": "#ffffff",
+      "description": "군 복무자 및 전역자만 받을 수 있는 특별한 혜택",
+      "url": "https://www.edmuhak.com/programs/soldier-language",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604281110_9ce1b9cb58c595a22f8cb00c96d8b025.png"
+    },
+    {
+      "id": "univ-uk-foundation",
+      "title": "영국 파운데이션",
+      "titleLines": [
+        "영국 파운데이션"
+      ],
+      "titleColor": "#ffffff",
+      "description": "전공 기초~대학 진학까지 한 번에 해결하는 필수 과정",
+      "url": "https://www.edmuhak.com/programs/univ-uk-foundation",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202604011206_f562d95ab6c7d0649f45209a4d9ed302.png"
+    },
+    {
+      "id": "uk-prestige-univ",
+      "title": "영국 아트 명문대 합격 준비반",
+      "titleLines": [
+        "영국 아트",
+        "명문대 합격 준비반"
+      ],
+      "titleColor": "#ffffff",
+      "description": "세계적인 영국 아트 명문대학교 포트폴리오·인터뷰 집중 등 합격 솔루션",
+      "url": "https://www.edmuhak.com/programs/uk-prestige-univ",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601200812_fa322e5da0c0f4badc99883ade263c11.jpg"
+    },
+    {
+      "id": "working-holiday-programs",
+      "title": "워킹홀리데이 어학연수 추천",
+      "titleLines": [
+        "워킹홀리데이",
+        "어학연수 추천"
+      ],
+      "titleColor": "#000000",
+      "description": "워홀가서 어학연수 고민이라면? 맞춤 플랜부터 비교 가능!",
+      "url": "https://www.edmuhak.com/programs/working-holiday-programs",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604241547_ea4533acc25992aa8b348b96e9a17e2d.png"
+    },
+    {
+      "id": "junior-abroad-seminar-admission",
+      "title": "조기유학 입학전략 세미나",
+      "titleLines": [
+        "조기유학 입학전략",
+        "세미나"
+      ],
+      "titleColor": "#000000",
+      "description": "최신 입시 노하우 + 무료 스크리닝 혜택 제공!",
+      "url": "https://www.edmuhak.com/programs/junior-abroad-seminar-admission",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161238_32b3431feee142f1376d9ee26403c808.png"
+    },
+    {
+      "id": "rca-school",
+      "title": "영국 왕립예술학교 RCA 합격 전략",
+      "titleLines": [
+        "영국 왕립예술학교",
+        "RCA 합격 전략"
+      ],
+      "titleColor": "#000000",
+      "description": "영국 미대 석사 진학, 포트폴리오·지원전략·인터뷰까지 한번에",
+      "url": "https://www.edmuhak.com/programs/rca-school",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202603031018_b5ccbf964c344f3420249bc546baf191.png"
+    },
+    {
+      "id": "value-language-study",
+      "title": "지금이 가성비 어학연수",
+      "titleLines": [
+        "지금이",
+        "가성비 어학연수"
+      ],
+      "titleColor": "#ffffff",
+      "description": "하반기 학비 인상 확정! 빨리 알아볼수록 유리한 어학연수 플랜은?",
+      "url": "https://www.edmuhak.com/programs/value-language-study",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202604101021_10f9fe8826e3bd8ac53fca4e94042ba5.png"
+    },
+    {
+      "id": "nz-early-study",
+      "title": "뉴질랜드 조기유학 로드맵",
+      "titleLines": [
+        "뉴질랜드 조기유학",
+        "로드맵"
+      ],
+      "titleColor": "#ffffff",
+      "description": "아름다운 자연과 합리적인 비용, 최고의 교육 환경",
+      "url": "https://www.edmuhak.com/programs/nz-early-study",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202510311039_fb6d849769b4f0a34d5dd2b0e2eb23ee.jpg"
+    },
+    {
+      "id": "university-solution-usa",
+      "title": "미국대학교 진학 전략",
+      "titleLines": [
+        "미국대학교 진학 전략"
+      ],
+      "titleColor": "#000000",
+      "description": "SAT·비교과 없이 가능한 현실적 명문대 진학 솔루션",
+      "url": "https://www.edmuhak.com/programs/university-solution-usa",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191645_eddd77ebbd855ed32f4cc41d0b5dd8d3.jpg"
+    },
+    {
+      "id": "art-ual",
+      "title": "런던예술대(UAL) 합격 가이드",
+      "titleLines": [
+        "런던예술대(UAL)",
+        "합격 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "UAL 합격에 필요한 진학 루트부터 포트폴리오 준비 기준까지 한 번에 정리합니다.",
+      "url": "https://www.edmuhak.com/programs/art-ual",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605221121_a81c48082e3ad990ab036308723f343e.jpg"
+    },
+    {
+      "id": "ivy-league",
+      "title": "미국 아이비리그 · 명문대 미대 진학",
+      "titleLines": [
+        "미국 아이비리그",
+        "· 명문대 미대 진학"
+      ],
+      "titleColor": "#ffffff",
+      "description": "상위권 대학 기준으로 설계한 입시 전략",
+      "url": "https://www.edmuhak.com/programs/ivy-league",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605210802_128f442b166cfbc418b67a95c2d7602b.jpg"
+    },
+    {
+      "id": "us-major",
+      "title": "미국 명문 미대 장학 합격반",
+      "titleLines": [
+        "미국 명문 미대",
+        "장학 합격반"
+      ],
+      "titleColor": "#ffffff",
+      "description": "미국 미대 학사,석사 진학을 목표로 하는 고등·대학생을 위한 프리미엄 입시 디렉팅",
+      "url": "https://www.edmuhak.com/programs/us-major",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202606091319_9e45ba7e9e791f536c780f7345ecc15d.jpg"
+    },
+    {
+      "id": "uk-early-study-program",
+      "title": "영국 조기유학 A to Z",
+      "titleLines": [
+        "영국 조기유학",
+        "A to Z"
+      ],
+      "titleColor": "#ffffff",
+      "description": "사립·명문학교 진학 준비 전략을 모두 한눈에!",
+      "url": "https://www.edmuhak.com/programs/uk-early-study-program",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602061010_3af5f4c96e771a44b447662a2f4d1a3a.jpg"
+    },
+    {
+      "id": "long-term-language",
+      "title": "실속·실력 UP! 6개월+ 어학연수",
+      "titleLines": [
+        "실속·실력 UP!",
+        "6개월+ 어학연수"
+      ],
+      "titleColor": "#000000",
+      "description": "월 비용 부담은 낮추고, 영어 실력은 확실히 키우는 6개월 이상 어학연수 플랜",
+      "url": "https://www.edmuhak.com/programs/long-term-language",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604170928_c0e5a61e090c4f2c17c54e8f2994a2af.png"
+    },
+    {
+      "id": "us-university-scholarship",
+      "title": "미국 명문대 장학금 리얼 가이드",
+      "titleLines": [
+        "미국 명문대 장학금",
+        "리얼 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "전미 랭킹 5% 미국 명문대로 장학금 받고 입학하는 방법",
+      "url": "https://www.edmuhak.com/programs/us-university-scholarship",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161326_d7b30f62cdac0ae6809babcab7c56d23.jpg"
+    },
+    {
+      "id": "usa-uk-transfer",
+      "title": "영국 · 미국 대학 편입 특별전형",
+      "titleLines": [
+        "영국 · 미국 대학",
+        "편입 특별전형"
+      ],
+      "titleColor": "#ffffff",
+      "description": "국내보다 쉬운 영국 · 미국 대학 편입 비교",
+      "url": "https://www.edmuhak.com/programs/usa-uk-transfer",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191652_0209afbfc192f986316b45c418d1ebec.jpg"
+    },
+    {
+      "id": "us-early-study-managed-vs-general",
+      "title": "미국 조기유학 관리형 vs 일반형",
+      "titleLines": [
+        "미국 조기유학",
+        "관리형 vs 일반형"
+      ],
+      "titleColor": "#000000",
+      "description": "최신 학교 정보와 생생한 사례로 완성하는 맞춤 플랜",
+      "url": "https://www.edmuhak.com/programs/us-early-study-managed-vs-general",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202511140813_03dd42e0b8d268063281ac4d32a148b3.jpg"
+    },
+    {
+      "id": "art-study",
+      "title": "비전공자 해외 미대 로드맵",
+      "titleLines": [
+        "비전공자",
+        "해외 미대 로드맵"
+      ],
+      "titleColor": "#ffffff",
+      "description": "전공·기초와 관계없이 시작하는 해외 미대 입시 전략",
+      "url": "https://www.edmuhak.com/programs/art-study",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605190814_eb766ca54433bc18370336d6ec63e857.jpg"
+    },
+    {
+      "id": "uk-art-admission",
+      "title": "영국 미대 10월 입학심사 대비반",
+      "titleLines": [
+        "영국 미대 10월",
+        "입학심사 대비반"
+      ],
+      "titleColor": "#000000",
+      "description": "교수진 1:1 평가 기회, 지금 확보하세요!",
+      "url": "https://www.edmuhak.com/programs/uk-art-admission",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605281041_a9e4f233da7f95d48f529f7ebd39dcd3.jpg"
+    },
+    {
+      "id": "online-portfolio",
+      "title": "1:1 온라인 포트폴리오 클래스",
+      "titleLines": [
+        "1:1 온라인",
+        "포트폴리오 클래스"
+      ],
+      "titleColor": "#000000",
+      "description": "해외·지방 문의 폭주! 장소 제약 없는 대표 강사진 1:1 온라인 수업",
+      "url": "https://www.edmuhak.com/programs/online-portfolio",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605221311_9779dc58ff69588c4665c1a209143314.jpg"
+    },
+    {
+      "id": "global-ap-ib-art-class",
+      "title": "국제학교 AP / IB Art Class",
+      "titleLines": [
+        "국제학교 AP / IB",
+        "Art Class"
+      ],
+      "titleColor": "#000000",
+      "description": "AP / IB 패스는 물론, 해외 대학 합격까지 케어! 내신 점수와 포트폴리오를 한 번에 완성합니다.",
+      "url": "https://www.edmuhak.com/programs/global-ap-ib-art-class",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202606011038_8a75ff05160fae28d6ac366056016996.jpg"
+    },
+    {
+      "id": "fashion-design",
+      "title": "패션유학 글로벌마스터 패턴메이킹 클래스",
+      "titleLines": [
+        "패션유학 글로벌마스터",
+        "패턴메이킹 클래스"
+      ],
+      "titleColor": "#000000",
+      "description": "FIT 테크니컬 패턴부터 CSM 입체 패턴까지, 글로벌이 요구하는 구조적 완성도를 키우는 실전형 클래스",
+      "url": "https://www.edmuhak.com/programs/fashion-design",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202608121302_38766b94fea4ec28f13d765144f1947f.png"
+    },
+    {
+      "id": "business-language",
+      "title": "직장인 비즈니스 영어 어학연수",
+      "titleLines": [
+        "직장인 비즈니스",
+        "영어 어학연수"
+      ],
+      "titleColor": "#ffffff",
+      "description": "회의·메일·발표, 단기에 끝내는 실무 영어 치트키",
+      "url": "https://www.edmuhak.com/programs/business-language",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604200919_e58f2cb44ff762abf50b93655015bd9e.png"
+    },
+    {
+      "id": "learn-canada",
+      "title": "캐나다 어학연수 가이드",
+      "titleLines": [
+        "캐나다 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/uhak/renewal/language-study/guide/canada/banner-mo.webp"
+    },
+    {
+      "id": "learn-australia",
+      "title": "호주 어학연수 가이드",
+      "titleLines": [
+        "호주 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-australia",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605081608_fe96734d20ce5f58ddd36647704f2ec9.webp"
+    },
+    {
+      "id": "major-fashion-design",
+      "title": "패션 디자인 유학 가이드",
+      "titleLines": [
+        "패션 디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Fashion, Textile & Craft Track",
+      "url": "https://www.edmuhak.com/programs/major-fashion-design",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261507_405f97c1eb0f1b532c1aaa984601b1da.jpg"
+    },
+    {
+      "id": "vacation-intensive",
+      "title": "해외 미대 포트폴리오 방학 집중반",
+      "titleLines": [
+        "해외 미대 포트폴리오",
+        "방학 집중반"
+      ],
+      "titleColor": "#ffffff",
+      "description": "방학 기간 최단 3개월에 맞춘 단기 로드맵으로 포트폴리오를 완성합니다.",
+      "url": "https://www.edmuhak.com/programs/vacation-intensive",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202604031317_c5ceffb01008e95694226516431d237c.png"
+    },
+    {
+      "id": "freshman",
+      "title": "단기 완성 해외 미대 포트폴리오",
+      "titleLines": [
+        "단기 완성",
+        "해외 미대 포트폴리오"
+      ],
+      "titleColor": "#ffffff",
+      "description": "최단 12주 만에 포트폴리오를 완성하는 방학·공백기 올인원 집중 코스",
+      "url": "https://www.edmuhak.com/programs/freshman",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202604021459_7cc84f997cfc76d0f03bf81028f20869.png"
+    },
+    {
+      "id": "us-managed-study-guide",
+      "title": "미국 관리형 유학의 모든 것",
+      "titleLines": [
+        "미국 관리형",
+        "유학의 모든 것"
+      ],
+      "titleColor": "#000000",
+      "description": "현지 담당자의 밀착 케어 + 맞춤 진학 컨설팅",
+      "url": "https://www.edmuhak.com/programs/us-managed-study-guide",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202511140813_be20c8511f29968795806f97223cdbc7.jpg"
+    },
+    {
+      "id": "nonmajor-portfolio",
+      "title": "비전공자 석사 포트폴리오 준비반",
+      "titleLines": [
+        "비전공자 석사",
+        "포트폴리오 준비반"
+      ],
+      "titleColor": "#ffffff",
+      "description": "포트폴리오·리서치·인터뷰까지 완벽 대비 원스톱 패키지",
+      "url": "https://www.edmuhak.com/programs/nonmajor-portfolio",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605221241_7c5cac1ba4ecc20200eb5744eb2eafe8.jpg"
+    },
+    {
+      "id": "learn-uk",
+      "title": "영국 어학연수 가이드",
+      "titleLines": [
+        "영국 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605081620_a71e529b39c928b085fba04ffa9d9643.webp"
+    },
+    {
+      "id": "college-solution-canada",
+      "title": "취업과 이민에 유리한 캐나다 컬리지",
+      "titleLines": [
+        "취업과 이민에 유리한",
+        "캐나다 컬리지"
+      ],
+      "titleColor": "#ffffff",
+      "description": "실무 중심 교육으로 완성하는 캐나다 컬리지 유학 플랜",
+      "url": "https://www.edmuhak.com/programs/college-solution-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191657_10a1d7adce7dce32ec5c7b61739ac54c.jpg"
+    },
+    {
+      "id": "public-officer-ma-uk",
+      "title": "공무원 국비유학 영국석사 가이드",
+      "titleLines": [
+        "공무원 국비유학",
+        "영국석사 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "짧은 1년 과정으로 역량 강화! 국비 유학의 기회",
+      "url": "https://www.edmuhak.com/programs/public-officer-ma-uk",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191702_4a7f89a9ae0f98befac64a8f8dd10e1d.jpg"
+    },
+    {
+      "id": "nl-recomm-point5",
+      "title": "네덜란드 유학(학사) 추천 포인트 5",
+      "titleLines": [
+        "네덜란드 유학(학사) 추천 포인트 5"
+      ],
+      "titleColor": "#ffffff",
+      "description": "낮은 학비·높은 교육수준·현지 취업 기회까지 갖춘 선택",
+      "url": "https://www.edmuhak.com/programs/nl-recomm-point5",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191706_d969df2bc39ed51378b1f2fc69142419.jpg"
+    },
+    {
+      "id": "canada-university-abroad",
+      "title": "캐나다 국제사립학교로 명문대 도전",
+      "titleLines": [
+        "캐나다 국제사립학교로 명문대 도전"
+      ],
+      "titleColor": "#000000",
+      "description": "대학 진학 목표 커리큘럼으로 높은 명문 대학교 진학률 달성!",
+      "url": "https://www.edmuhak.com/programs/canada-university-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191738_3db1b59420c9cdbd9db6ef12305d5080.jpg"
+    },
+    {
+      "id": "canada-public-study-parent",
+      "title": "캐나다 공립 부모 동반 조기유학",
+      "titleLines": [
+        "캐나다 공립",
+        "부모 동반 조기유학"
+      ],
+      "titleColor": "#000000",
+      "description": "아이 정서와 학업에 집중할 수 있는 부모 동반 유학",
+      "url": "https://www.edmuhak.com/programs/canada-public-study-parent",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161431_ae3d5896c30b102a2dc1b4e87bbcdd7f.jpg"
+    },
+    {
+      "id": "short-term-abroad",
+      "title": "단기 어학연수 완벽 가이드",
+      "titleLines": [
+        "단기 어학연수",
+        "완벽 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "1개월 , 2개월, 3개월로 짧고 굵게 끝내는 해외 단기 어학연수!",
+      "url": "https://www.edmuhak.com/programs/short-term-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202603250901_a7bc647a4c074a3db1353d6f4a640962.png"
+    },
+    {
+      "id": "learn-usa",
+      "title": "미국 어학연수 가이드",
+      "titleLines": [
+        "미국 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605081624_23de7c13826cb3f29517a6077cd6cc62.webp"
+    },
+    {
+      "id": "learn-philippines",
+      "title": "필리핀 어학연수 가이드",
+      "titleLines": [
+        "필리핀 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-philippines",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202603260826_a206c330a5f1b04e40d1a71215f8568a.png"
+    },
+    {
+      "id": "class-fashion",
+      "title": "패션 디자인 포트폴리오 수업",
+      "titleLines": [
+        "패션 디자인",
+        "포트폴리오 수업"
+      ],
+      "titleColor": "#000000",
+      "description": "Fashion and Textiles (Fashion Design)",
+      "url": "https://www.edmuhak.com/programs/class-fashion",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202606111445_ddf08c4157e34e17ed63f4fe246cd063.png"
+    },
+    {
+      "id": "art-country-usa",
+      "title": "미국 미술·디자인 유학 가이드",
+      "titleLines": [
+        "미국 미술·디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "RISD, Parsons, SAIC 등 미국 명문 미대 진학 전략",
+      "url": "https://www.edmuhak.com/programs/art-country-usa",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261426_eae150577f1468b7e40debcc52b00da2.jpg"
+    },
+    {
+      "id": "art-country-uk",
+      "title": "영국 미술·디자인 유학 가이드",
+      "titleLines": [
+        "영국 미술·디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "RCA·UAL·UCL 등 영국 명문 미대 진학 전략",
+      "url": "https://www.edmuhak.com/programs/art-country-uk",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261433_b983e60be9d179309fd333576483ae85.jpg"
+    },
+    {
+      "id": "art-country-canada",
+      "title": "캐나다 미술·디자인 유학 가이드",
+      "titleLines": [
+        "캐나다 미술·디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "OCAD·Emily Carr 등 캐나다 명문 미대 합격 솔루션",
+      "url": "https://www.edmuhak.com/programs/art-country-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261437_bdbfbb5671c323925960b2227cf159fd.jpg"
+    },
+    {
+      "id": "art-country-korea-global",
+      "title": "UAL·FIT 해외 미대 국내 과정",
+      "titleLines": [
+        "UAL·FIT 해외 미대",
+        "국내 과정"
+      ],
+      "titleColor": "#ffffff",
+      "description": "국내에서 먼저 이수하는 진학 준비 과정",
+      "url": "https://www.edmuhak.com/programs/art-country-korea-global",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261440_6f077f7ba2e66894e2e332dd08367062.jpg"
+    },
+    {
+      "id": "learn-new-zealand",
+      "title": "뉴질랜드 어학연수 가이드",
+      "titleLines": [
+        "뉴질랜드 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-new-zealand",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072026_8aa2788700c6699b4c9252aee051bf02.jpg"
+    },
+    {
+      "id": "univ-uk-bachelors-course",
+      "title": "영국 대학 학사",
+      "titleLines": [
+        "영국 대학 학사"
+      ],
+      "titleColor": "#000000",
+      "description": "짧지만 밀도 있는 전공 몰입형 학부 과정",
+      "url": "https://www.edmuhak.com/programs/univ-uk-bachelors-course",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072022_cac61c7df32c3a1f7a358ac0919f9a2e.jpg"
+    },
+    {
+      "id": "uts-program-australia",
+      "title": "호주 실무중심 명문대 UTS 진학",
+      "titleLines": [
+        "호주 실무중심 명문대",
+        "UTS 진학"
+      ],
+      "titleColor": "#000000",
+      "description": "디플로마 수료 후 본과 진학과 취업 경쟁력까지 한 번에",
+      "url": "https://www.edmuhak.com/programs/uts-program-australia",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191754_7fb36fd67e531944335ad31224b2028d.jpg"
+    },
+    {
+      "id": "uk-degree-in-singapore",
+      "title": "영국 명문대 학위 유학 IN 싱가포르",
+      "titleLines": [
+        "영국 명문대 학위 유학",
+        "IN 싱가포르"
+      ],
+      "titleColor": "#000000",
+      "description": "영국 본교 학위, 시간·비용 모두 절감하는 방법",
+      "url": "https://www.edmuhak.com/programs/uk-degree-in-singapore",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191712_e7839ec06e8e0e64a45c432ec123deec.jpg"
+    },
+    {
+      "id": "uk-university-btec",
+      "title": "국내에서 준비하는 영국 경영학(BTEC HND)",
+      "titleLines": [
+        "국내에서 준비하는",
+        "영국 경영학(BTEC HND)"
+      ],
+      "titleColor": "#ffffff",
+      "description": "내신걱정없이 edm해외입학과정으로 준비하세요.",
+      "url": "https://www.edmuhak.com/programs/uk-university-btec",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202604231612_f32982c6c31ce0145b1c7bcd019ec28c.png"
+    },
+    {
+      "id": "child-alone",
+      "title": "아이 혼자 떠나는 캐나다 조기유학",
+      "titleLines": [
+        "아이 혼자 떠나는",
+        "캐나다 조기유학"
+      ],
+      "titleColor": "#000000",
+      "description": "관리형 유학, 사립 보딩스쿨, 국제 사립학교 A to Z!",
+      "url": "https://www.edmuhak.com/programs/child-alone",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161414_7f5e760993def3f250a3a5e2ba02004c.jpg"
+    },
+    {
+      "id": "intern-abroad-canada",
+      "title": "캐나다 Co-op 인턴십 어학연수",
+      "titleLines": [
+        "캐나다 Co-op 인턴십",
+        "어학연수"
+      ],
+      "titleColor": "#000000",
+      "description": "워홀보다 체계적이고 실속 있는 실무 중심 어학연수",
+      "url": "https://www.edmuhak.com/programs/intern-abroad-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202603250904_9b822a9f5456ac72014580c178ca3f55.png"
+    },
+    {
+      "id": "learn-malta",
+      "title": "몰타 어학연수 가이드",
+      "titleLines": [
+        "몰타 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-malta",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602091639_6a7e54437d9ec131dd03b7a8d9cc0d52.jpg"
+    },
+    {
+      "id": "learn-ireland",
+      "title": "아일랜드 어학연수 가이드",
+      "titleLines": [
+        "아일랜드 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-ireland",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081025_65db7728dc05640ededc84985a675747.jpg"
+    },
+    {
+      "id": "univ-uk-pre-master",
+      "title": "영국 프리마스터",
+      "titleLines": [
+        "영국 프리마스터"
+      ],
+      "titleColor": "#000000",
+      "description": "전공·영어·학업 스킬, 한 번에 잡는 2학년 진학의 지름길",
+      "url": "https://www.edmuhak.com/programs/univ-uk-pre-master",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072021_a451ada036403ecfc8e6859b887223b1.jpg"
+    },
+    {
+      "id": "univ-uk",
+      "title": "영국 유학 가이드",
+      "titleLines": [
+        "영국 유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "영국 대학/대학원 입학 · 비자 · 장학금 한눈에",
+      "url": "https://www.edmuhak.com/programs/univ-uk",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072028_9f7106017743a2ed354c8d3ca5f2a96e.jpg"
+    },
+    {
+      "id": "univ-canada",
+      "title": "캐나다 유학 가이드",
+      "titleLines": [
+        "캐나다 유학 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "학업부터 현지 취업~이민까지 열린 기회",
+      "url": "https://www.edmuhak.com/programs/univ-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072027_71b1bebdfa81ea679ff2bbaaf1efdd72.jpg"
+    },
+    {
+      "id": "learn-malta-sliema",
+      "title": "슬리에마 어학연수 가이드",
+      "titleLines": [
+        "슬리에마 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-malta-sliema",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081156_e9626128fab6107578c090ff7e8204ec.jpg"
+    },
+    {
+      "id": "univ-australia",
+      "title": "호주 유학 가이드",
+      "titleLines": [
+        "호주 유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "명문대 학위와 취업·이민까지, 글로벌 커리어의 발판",
+      "url": "https://www.edmuhak.com/programs/univ-australia",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605201254_12139942787caa6bf8411763c435c315.png"
+    },
+    {
+      "id": "univ-usa",
+      "title": "미국 유학 가이드",
+      "titleLines": [
+        "미국 유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "글로벌 경쟁력과 무한한 진로 기회",
+      "url": "https://www.edmuhak.com/programs/univ-usa",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072028_58278fce9f9f65c1c80196c401b88492.jpg"
+    },
+    {
+      "id": "univ-uk-school-transfer",
+      "title": "영국 대학 편입 (IY1)",
+      "titleLines": [
+        "영국 대학 편입 (IY1)"
+      ],
+      "titleColor": "#000000",
+      "description": "전공·영어·학업 스킬, 한 번에 잡는 2학년 진학의 지름길",
+      "url": "https://www.edmuhak.com/programs/univ-uk-school-transfer",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072021_e89f160e19a62b038d068774ebb94671.jpg"
+    },
+    {
+      "id": "uk-foundation",
+      "title": "영국 명문대 부설 파운데이션",
+      "titleLines": [
+        "영국 명문대 부설 파운데이션"
+      ],
+      "titleColor": "#000000",
+      "description": "UCL·KCL·워릭 등 명문대 진학을 위한 최적의 선택",
+      "url": "https://www.edmuhak.com/programs/uk-foundation",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191725_4c103b0275ac3682e8b5f132a50a4238.jpg"
+    },
+    {
+      "id": "ucas-clearing",
+      "title": "영국 대학 UCAS 클리어링 전략",
+      "titleLines": [
+        "영국 대학 UCAS",
+        "클리어링 전략"
+      ],
+      "titleColor": "#ffffff",
+      "description": "런던 직영지사의 신속/정확 UCAS 클리어링 서포트!",
+      "url": "https://www.edmuhak.com/programs/ucas-clearing",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601191730_b1991b4cfaee391db4f3111006d05c90.jpg"
+    },
+    {
+      "id": "univ-uk-pre-sessional",
+      "title": "영국 프리세셔널",
+      "titleLines": [
+        "영국 프리세셔널"
+      ],
+      "titleColor": "#000000",
+      "description": "영국 학사·석사 입학 전, 영어 실력과 학업 스킬 완벽 준비",
+      "url": "https://www.edmuhak.com/programs/univ-uk-pre-sessional",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072021_e7c35f805d060b61dc69a9fe063cf687.jpg"
+    },
+    {
+      "id": "school-uk",
+      "title": "영국 조기유학 가이드",
+      "titleLines": [
+        "영국 조기유학 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "학교 선택부터 현지 적응까지 단계별 준비",
+      "url": "https://www.edmuhak.com/programs/school-uk",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/uhak/renewal/junior-abroad/guide/uk/banner-mo.webp"
+    },
+    {
+      "id": "school-usa",
+      "title": "미국 조기유학 가이드",
+      "titleLines": [
+        "미국 조기유학 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "학교 선택부터 현지 적응까지 단계별 준비",
+      "url": "https://www.edmuhak.com/programs/school-usa",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/uhak/renewal/junior-abroad/guide/usa/banner-mo.webp"
+    },
+    {
+      "id": "school-canada",
+      "title": "캐나다 조기유학 가이드",
+      "titleLines": [
+        "캐나다 조기유학 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "학교 선택부터 현지 적응까지 단계별 준비",
+      "url": "https://www.edmuhak.com/programs/school-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072018_8b3fe9ab4d5a174a37f2241f9e2f8904.jpg"
+    },
+    {
+      "id": "school-new-zealand",
+      "title": "뉴질랜드 조기유학 가이드",
+      "titleLines": [
+        "뉴질랜드 조기유학 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "학교 선택부터 현지 적응까지 단계별 준비",
+      "url": "https://www.edmuhak.com/programs/school-new-zealand",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602072019_96aeee7fc62164e11ca6dc8587d2a31c.jpg"
+    },
+    {
+      "id": "learn-uk-london",
+      "title": "런던 어학연수 가이드",
+      "titleLines": [
+        "런던 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-london",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081056_7ac05b9026d867c0f72c5a41a414d185.jpg"
+    },
+    {
+      "id": "learn-canada-vancouver",
+      "title": "밴쿠버 어학연수 가이드",
+      "titleLines": [
+        "밴쿠버 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-canada-vancouver",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081032_8566fce428e8c32e18701771403871b7.jpg"
+    },
+    {
+      "id": "learn-canada-toronto",
+      "title": "토론토 어학연수 가이드",
+      "titleLines": [
+        "토론토 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-canada-toronto",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081040_c8f3e0bb2a03b41ba9622aa08a3f66b4.jpg"
+    },
+    {
+      "id": "learn-australia-brisbane",
+      "title": "브리즈번 어학연수 가이드",
+      "titleLines": [
+        "브리즈번 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-australia-brisbane",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081018_193153f1ab3cbc66b4f5eace4529d6b4.jpg"
+    },
+    {
+      "id": "learn-new-zealand-auckland",
+      "title": "오클랜드 어학연수 가이드",
+      "titleLines": [
+        "오클랜드 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-new-zealand-auckland",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081157_c098349f3b61050cc5b32a111fa254c7.jpg"
+    },
+    {
+      "id": "learn-australia-sydney",
+      "title": "시드니 어학연수 가이드",
+      "titleLines": [
+        "시드니 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-australia-sydney",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081019_dfde847a4d90548667598c7951a2fcdf.jpg"
+    },
+    {
+      "id": "learn-usa-new-york",
+      "title": "뉴욕 어학연수 가이드",
+      "titleLines": [
+        "뉴욕 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa-new-york",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081141_899a14770ee49765f8e8273d2e9614fc.jpg"
+    },
+    {
+      "id": "learn-ireland-dublin",
+      "title": "더블린 어학연수 가이드",
+      "titleLines": [
+        "더블린 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-ireland-dublin",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081159_ee773d6bf063eddb6a66fdd8aa4afae0.jpg"
+    },
+    {
+      "id": "learn-uk-manchester",
+      "title": "맨체스터 어학연수 가이드",
+      "titleLines": [
+        "맨체스터 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-manchester",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081137_d61096f9ec135978bd51c42c9674be0f.jpg"
+    },
+    {
+      "id": "learn-uk-bournemouth",
+      "title": "본머스 어학연수 가이드",
+      "titleLines": [
+        "본머스 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-bournemouth",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081101_ad79a95dd44ba17eff54c9c697a4585d.jpg"
+    },
+    {
+      "id": "learn-usa-boston",
+      "title": "보스턴 어학연수 가이드",
+      "titleLines": [
+        "보스턴 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa-boston",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081142_734c4d78f85e35432570139cf7338df7.jpg"
+    },
+    {
+      "id": "learn-malta-st-julians",
+      "title": "세인트줄리앙스 어학연수 가이드",
+      "titleLines": [
+        "세인트줄리앙스 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-malta-st-julians",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081153_b41e1630e22d6d2ea2c6887ab6086b31.jpg"
+    },
+    {
+      "id": "learn-usa-chicago",
+      "title": "시카고 어학연수 가이드",
+      "titleLines": [
+        "시카고 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa-chicago",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081147_35bdbab748b7784a36dd939d477824fc.jpg"
+    },
+    {
+      "id": "learn-uk-brighton",
+      "title": "브라이튼 어학연수 가이드",
+      "titleLines": [
+        "브라이튼 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-brighton",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081133_453eee2d500e5ef3be85c5b443b1b168.jpg"
+    },
+    {
+      "id": "learn-uk-oxford",
+      "title": "옥스포드 어학연수 가이드",
+      "titleLines": [
+        "옥스포드 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-oxford",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081104_3547a792e9f410eb05025b6b9f40fe5a.jpg"
+    },
+    {
+      "id": "learn-uk-liverpool",
+      "title": "리버풀 어학연수 가이드",
+      "titleLines": [
+        "리버풀 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-liverpool",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605120917_1161ae0eb7880e2b254eaba05231adc2.png"
+    },
+    {
+      "id": "learn-usa-san-francisco",
+      "title": "샌프란시스코 어학연수 가이드",
+      "titleLines": [
+        "샌프란시스코 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa-san-francisco",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081144_27b641e23965ea22fc94720633f30ead.jpg"
+    },
+    {
+      "id": "learn-usa-los-angeles",
+      "title": "로스엔젤레스 어학연수 가이드",
+      "titleLines": [
+        "로스엔젤레스 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa-los-angeles",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081146_cd1b98340df88d1ca9d43c02ff150be0.jpg"
+    },
+    {
+      "id": "learn-ireland-cork",
+      "title": "코크 어학연수 가이드",
+      "titleLines": [
+        "코크 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-ireland-cork",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081200_05e5eb354f561d8f6d18fac968c1cddf.jpg"
+    },
+    {
+      "id": "learn-philippines-cebu",
+      "title": "세부 어학연수 가이드",
+      "titleLines": [
+        "세부 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-philippines-cebu",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081150_a9082a620310209cff5e02636b081180.jpg"
+    },
+    {
+      "id": "learn-uk-cambridge",
+      "title": "캠브리지 어학연수 가이드",
+      "titleLines": [
+        "캠브리지 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-uk-cambridge",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081104_1e4b9b0ad726b21c5cb766122754e0f3.jpg"
+    },
+    {
+      "id": "learn-usa-san-diego",
+      "title": "샌디에고 어학연수 가이드",
+      "titleLines": [
+        "샌디에고 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-usa-san-diego",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081145_593582178c77d2182d89a921eb8173ed.jpg"
+    },
+    {
+      "id": "learn-canada-victoria",
+      "title": "빅토리아 어학연수 가이드",
+      "titleLines": [
+        "빅토리아 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-canada-victoria",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081044_3e97fc231aea24ee187c076dd9ffa19a.jpg"
+    },
+    {
+      "id": "learn-canada-calgary",
+      "title": "캘거리 어학연수 가이드",
+      "titleLines": [
+        "캘거리 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-canada-calgary",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/uhak/renewal/language-study/guide/calgary/banner-mo.webp"
+    },
+    {
+      "id": "learn-australia-melbourne",
+      "title": "멜버른 어학연수 가이드",
+      "titleLines": [
+        "멜버른 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-australia-melbourne",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081018_371379ce1e51a64cc8a73bad1e775911.jpg"
+    },
+    {
+      "id": "learn-philippines-baguio",
+      "title": "바기오 어학연수 가이드",
+      "titleLines": [
+        "바기오 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-philippines-baguio",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081152_c3c3a47c81a6cec35038c4ed5b9b2b51.jpg"
+    },
+    {
+      "id": "learn-australia-gold-coast",
+      "title": "골드코스트 어학연수 가이드",
+      "titleLines": [
+        "골드코스트 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-australia-gold-coast",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081018_f94537401577c02f6782d7d7237de339.jpg"
+    },
+    {
+      "id": "learn-canada-montreal",
+      "title": "몬트리올 어학연수 가이드",
+      "titleLines": [
+        "몬트리올 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-canada-montreal",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/uhak/renewal/language-study/guide/montreal/banner-mo.webp"
+    },
+    {
+      "id": "learn-australia-perth",
+      "title": "퍼스 어학연수 가이드",
+      "titleLines": [
+        "퍼스 어학연수 가이드"
+      ],
+      "titleColor": "#000000",
+      "description": "처음부터 완벽하게 준비하는 A to Z 안내서",
+      "url": "https://www.edmuhak.com/programs/learn-australia-perth",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202602081028_33183bd29c27287edb81521e1073dddb.jpg"
+    },
+    {
+      "id": "major-fashion-communication",
+      "title": "패션 커뮤니케이션 유학 가이드",
+      "titleLines": [
+        "패션 커뮤니케이션",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Fashion Communication & Image Direction Track",
+      "url": "https://www.edmuhak.com/programs/major-fashion-communication",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261514_5667952f78bed38de9a88f8aa842b6ac.jpg"
+    },
+    {
+      "id": "class-graphic",
+      "title": "그래픽 디자인 포트폴리오 수업",
+      "titleLines": [
+        "그래픽 디자인",
+        "포트폴리오 수업"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Graphic Communication Design",
+      "url": "https://www.edmuhak.com/programs/class-graphic",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261552_48280f177f012c2af4f73a60b24e3f67.jpg"
+    },
+    {
+      "id": "major-fine-art",
+      "title": "순수미술 유학 가이드",
+      "titleLines": [
+        "순수미술 유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Fine Arts Track",
+      "url": "https://www.edmuhak.com/programs/major-fine-art",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261457_992d91f45b60c7566db6cb833678952a.jpg"
+    },
+    {
+      "id": "class-fine-art",
+      "title": "순수미술 포트폴리오 수업",
+      "titleLines": [
+        "순수미술 포트폴리오 수업"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Fine Art",
+      "url": "https://www.edmuhak.com/programs/class-fine-art",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261549_909d16a5918463c008e93cb988448453.jpg"
+    },
+    {
+      "id": "major-animation",
+      "title": "애니메이션 유학 가이드",
+      "titleLines": [
+        "애니메이션",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Animation & Motion Imaging Track",
+      "url": "https://www.edmuhak.com/programs/major-animation",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261522_9fda0ea67ef5824985561e660c3c955a.jpg"
+    },
+    {
+      "id": "class-animation",
+      "title": "애니메이션 포트폴리오 수업",
+      "titleLines": [
+        "애니메이션",
+        "포트폴리오 수업"
+      ],
+      "titleColor": "#000000",
+      "description": "Animation, Game Design and Illustration",
+      "url": "https://www.edmuhak.com/programs/class-animation",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261554_98f4bec9f5f8c68758f78df0b9c2e28b.jpg"
+    },
+    {
+      "id": "major-game-design",
+      "title": "게임 디자인 유학 가이드",
+      "titleLines": [
+        "게임 디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Game & Interactive Media Track",
+      "url": "https://www.edmuhak.com/programs/major-game-design",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261526_007a4d917fbb2ffd6836bd59f085c129.jpg"
+    },
+    {
+      "id": "major-film",
+      "title": "영화·영상 유학 가이드",
+      "titleLines": [
+        "영화·영상",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Film & Screen Production Track",
+      "url": "https://www.edmuhak.com/programs/major-film",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261519_8da0d59265dfafe4b0c58e965ba60c3a.jpg"
+    },
+    {
+      "id": "major-ux-service",
+      "title": "UX·서비스 디자인 유학 가이드",
+      "titleLines": [
+        "UX·서비스 디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Experience & Strategy Design Track",
+      "url": "https://www.edmuhak.com/programs/major-ux-service",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261537_382039ab30b63914f7c99d5c2aa8a8a8.jpg"
+    },
+    {
+      "id": "major-art-management",
+      "title": "예술경영·큐레이팅 유학 가이드",
+      "titleLines": [
+        "예술경영·큐레이팅",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Arts, Culture & Management Track",
+      "url": "https://www.edmuhak.com/programs/major-art-management",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261502_eed80ff39c7fd08b0b757d633e503ca8.jpg"
+    },
+    {
+      "id": "major-ai-tech",
+      "title": "AI·테크 융합 디자인 유학 가이드",
+      "titleLines": [
+        "AI·테크 융합 디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "AI / Tech-Fusion Design Track",
+      "url": "https://www.edmuhak.com/programs/major-ai-tech",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261540_208152263c5d3284f2b711208eb06a26.jpg"
+    },
+    {
+      "id": "major-space-industrial",
+      "title": "공간·산업 디자인 유학 가이드",
+      "titleLines": [
+        "공간·산업 디자인",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Spatial & Industrial Design Track",
+      "url": "https://www.edmuhak.com/programs/major-space-industrial",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261534_e0ef71b9fa787d16f26ca4044055fec2.jpg"
+    },
+    {
+      "id": "class-space",
+      "title": "공간·건축·인테리어 포트폴리오 수업",
+      "titleLines": [
+        "공간·건축·인테리어",
+        "포트폴리오 수업"
+      ],
+      "titleColor": "#ffffff",
+      "description": "3-Dimensional Design and Architecture",
+      "url": "https://www.edmuhak.com/programs/class-space",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261556_490c9dfb2c6f6701da53fed96760d930.jpg"
+    },
+    {
+      "id": "major-media-communication",
+      "title": "미디어·커뮤니케이션 유학 가이드",
+      "titleLines": [
+        "미디어·커뮤니케이션",
+        "유학 가이드"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Creative Media & Visual Communication Track",
+      "url": "https://www.edmuhak.com/programs/major-media-communication",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261529_5968a168945835dc190b447d06b5735d.jpg"
+    },
+    {
+      "id": "essay-self-introduction",
+      "title": "미대유학 자기소개서",
+      "titleLines": [
+        "미대유학 자기소개서"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Personal Statement (PS) / Personal Essay",
+      "url": "https://www.edmuhak.com/programs/essay-self-introduction",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261611_1aacfccb2c7687a0ff95a5051e69633a.jpg"
+    },
+    {
+      "id": "essay-recommendation",
+      "title": "미대유학 추천서",
+      "titleLines": [
+        "미대유학 추천서"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Recommendation Letter",
+      "url": "https://www.edmuhak.com/programs/essay-recommendation",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605270814_848bc7d894bd8471c2063fa72cd61d41.jpg"
+    },
+    {
+      "id": "essay-art-resume",
+      "title": "미대유학 아티스트 이력서",
+      "titleLines": [
+        "미대유학 아티스트 이력서"
+      ],
+      "titleColor": "#000000",
+      "description": "Artist Resume / Creative CV",
+      "url": "https://www.edmuhak.com/programs/essay-art-resume",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261657_3f224ddcdab3de6a5ac363550bd8c78e.jpg"
+    },
+    {
+      "id": "essay-academic-writing",
+      "title": "미대유학 라이팅 샘플",
+      "titleLines": [
+        "미대유학 라이팅 샘플"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Critical Writing Sample / Academic Essay",
+      "url": "https://www.edmuhak.com/programs/essay-academic-writing",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605270826_a1ead654450db4b099d12e46f202dbcf.jpg"
+    },
+    {
+      "id": "portfolio-review",
+      "title": "미대유학 포트폴리오 리뷰",
+      "titleLines": [
+        "미대유학",
+        "포트폴리오 리뷰"
+      ],
+      "titleColor": "#000000",
+      "description": "해외 명문대 출신 전문가의 1:1 피드백",
+      "url": "https://www.edmuhak.com/programs/portfolio-review",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261558_300899787b682e97718e56ec4f5562dc.jpg"
+    },
+    {
+      "id": "essay-artwork-description",
+      "title": "미대유학 포트폴리오 맥락 진술서",
+      "titleLines": [
+        "미대유학",
+        "포트폴리오 맥락 진술서"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Contextual Statement / Portfolio Captions",
+      "url": "https://www.edmuhak.com/programs/essay-artwork-description",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605270830_e19a571dd3624eaf00099f2313e9b4e2.jpg"
+    },
+    {
+      "id": "essay-motivation",
+      "title": "미대유학 학업계획서",
+      "titleLines": [
+        "미대유학 학업계획서"
+      ],
+      "titleColor": "#000000",
+      "description": "Statement of Purpose (SOP) / Statement of Intent / Letter of Motivation",
+      "url": "https://www.edmuhak.com/programs/essay-motivation",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202606080840_669e43082c09e8fd5c44809a82cf3264.jpg"
+    },
+    {
+      "id": "essay-project-plan",
+      "title": "미대유학 연구계획서",
+      "titleLines": [
+        "미대유학 연구계획서"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Project Proposal / Research Proposal",
+      "url": "https://www.edmuhak.com/programs/essay-project-plan",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261655_0b207e0f715089c2bbc7712ac8a5eb64.jpg"
+    },
+    {
+      "id": "essay-artist-note",
+      "title": "미대유학 작가노트",
+      "titleLines": [
+        "미대유학 작가노트"
+      ],
+      "titleColor": "#000000",
+      "description": "Artist Statement",
+      "url": "https://www.edmuhak.com/programs/essay-artist-note",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261618_e97897463373e0170deb206bde17387b.jpg"
+    },
+    {
+      "id": "essay-planning",
+      "title": "미대유학 전시·프로젝트 기획서",
+      "titleLines": [
+        "미대유학",
+        "전시·프로젝트 기획서"
+      ],
+      "titleColor": "#000000",
+      "description": "Curatorial / Rationale Statement",
+      "url": "https://www.edmuhak.com/programs/essay-planning",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605270828_531887ff059b874222ddbd9e1b9d4034.jpg"
+    },
+    {
+      "id": "essay-consulting",
+      "title": "미대유학 에세이 컨설팅",
+      "titleLines": [
+        "미대유학",
+        "에세이 컨설팅"
+      ],
+      "titleColor": "#ffffff",
+      "description": "해외 미대 출신 전문가의 전공별 에세이 컨설팅",
+      "url": "https://www.edmuhak.com/programs/essay-consulting",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261609_a6f0bb97c2754e9b7c39a91ab560d29b.jpg"
+    },
+    {
+      "id": "essay-us-main",
+      "title": "미대유학 커먼앱 에세이",
+      "titleLines": [
+        "미대유학 커먼앱 에세이"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Common App Essay",
+      "url": "https://www.edmuhak.com/programs/essay-us-main",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605270818_f5f80cc30adf0b50f127af2cfb5d1600.jpg"
+    },
+    {
+      "id": "essay-diversity",
+      "title": "미대유학 다양성 에세이",
+      "titleLines": [
+        "미대유학 다양성 에세이"
+      ],
+      "titleColor": "#ffffff",
+      "description": "Personal History / Diversity Essay",
+      "url": "https://www.edmuhak.com/programs/essay-diversity",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605270824_e7ef840561622f4b3741a298c3f9c003.jpg"
+    },
+    {
+      "id": "essay-video",
+      "title": "미대유학 비디오 에세이",
+      "titleLines": [
+        "미대유학 비디오 에세이"
+      ],
+      "titleColor": "#000000",
+      "description": "Video Essay / Video Introduction",
+      "url": "https://www.edmuhak.com/programs/essay-video",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261652_c854502f42e2b5064300e42983d2c024.jpg"
+    },
+    {
+      "id": "essay-school-specific",
+      "title": "미대유학 학교별 추가 에세이",
+      "titleLines": [
+        "미대유학",
+        "학교별 추가 에세이"
+      ],
+      "titleColor": "#ffffff",
+      "description": "School-Specific Supplemental Essay",
+      "url": "https://www.edmuhak.com/programs/essay-school-specific",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261636_5eda454d87dc9a73ea13ce0fb82f1be3.jpg"
+    },
+    {
+      "id": "essay-uc-special",
+      "title": "미대유학 UC 특별문항 에세이",
+      "titleLines": [
+        "미대유학",
+        "UC 특별문항 에세이"
+      ],
+      "titleColor": "#ffffff",
+      "description": "UC Personal Insight Questions (PIQs)",
+      "url": "https://www.edmuhak.com/programs/essay-uc-special",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605261650_3c406deb4c34b08d23f7416c70bd8d7c.jpg"
+    },
+    {
+      "id": "private-acg-new-zealand",
+      "title": "뉴질랜드 사립학교를 통한 명문대 진학",
+      "titleLines": [
+        "뉴질랜드 사립학교를 통한 명문대 진학"
+      ],
+      "titleColor": "#000000",
+      "description": "뉴질랜드 사립 명문 ACG, 해외대 진학을 위한 완벽한 루트",
+      "url": "https://www.edmuhak.com/programs/private-acg-new-zealand",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161558_be1e83f95b9047aaf64453910e9d1168.jpg"
+    },
+    {
+      "id": "philippines-junior-abroad",
+      "title": "필리핀 조기유학 관리형 프로그램",
+      "titleLines": [
+        "필리핀 조기유학 관리형 프로그램"
+      ],
+      "titleColor": "#ffffff",
+      "description": "24시간 밀착 케어로 영어·학업·생활을 안전하게!",
+      "url": "https://www.edmuhak.com/programs/philippines-junior-abroad",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161450_03ec47b4cb3e3b4767a11691f6e1680e.jpg"
+    },
+    {
+      "id": "education-free-by-college-canada",
+      "title": "캐나다 자녀 무상교육 프로그램",
+      "titleLines": [
+        "캐나다 자녀 무상교육 프로그램"
+      ],
+      "titleColor": "#000000",
+      "description": "컬리지 학업으로 자녀 공립학교 무상 교육 가능",
+      "url": "https://www.edmuhak.com/programs/education-free-by-college-canada",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202603250857_80c1dd14bf4a16abd5c348151529996f.png"
+    },
+    {
+      "id": "philippines-family-training",
+      "title": "가족이 함께 떠나는 필리핀 연수",
+      "titleLines": [
+        "가족이 함께 떠나는 필리핀 연수"
+      ],
+      "titleColor": "#000000",
+      "description": "아이와 함께 영어실력 향상하고 잊지 못할 추억 만들기",
+      "url": "https://www.edmuhak.com/programs/philippines-family-training",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202601161554_d197b406697b54156db5340726d74a9c.jpg"
+    },
+    {
+      "id": "daegubusan-language-event",
+      "title": "대구/부산 어학연수 초특가 찬스!",
+      "titleLines": [
+        "대구/부산 어학연수 초특가 찬스!"
+      ],
+      "titleColor": "#000000",
+      "description": "영남권(대구, 부산, 인근지역) 단독 혜택으로 비용은 낮추고, 인기 숙소는 빠르게 선점하기",
+      "url": "https://www.edmuhak.com/programs/daegubusan-language-event",
+      "image": "https://s3.ap-northeast-2.amazonaws.com/uploadimg.edmedu.com/edm/edmuhak/programs/202604101601_0837e949a9283354ada25a30049b399d.png"
+    }
+  ]
+}

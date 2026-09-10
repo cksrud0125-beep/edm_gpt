@@ -1,0 +1,50 @@
+[
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202601091645_d30cc6a73050e73312bbc20682ec8ad0.png",
+    "title": "유학기업 1위\n16년 연속 수상",
+    "subtitle": "2026 퍼스트 브랜드 대상",
+    "light": true
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202608251417_a7b1f07520918e99f364f2194c681fc8.webp",
+    "title": "AI로 다 찾아봤는데\n상담이 필요할까요?",
+    "subtitle": "유학 컨설턴트 현장 설문 리포트",
+    "light": false
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202601091652_61395a0fda52f8cff02f32cbd869d220.png",
+    "title": "국내 1위\n수속 고객 혜택",
+    "subtitle": "edm이기에 가능한 압도적 서비스",
+    "light": false
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202601091647_6cad2eb167c224f62e587f3621506760.png",
+    "title": "+9,999 압도적 후기\n이유가 있습니다!",
+    "subtitle": "고객의 꿈, 우리의 미션",
+    "light": false
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605181638_703bc611d5727913334e228374b8e7a4.jpg",
+    "title": "고객을 향한 진심\n안전 유학",
+    "subtitle": "환불, 검증된 학교 추천, 학비 송금, 투명한 절차",
+    "light": true
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202603131030_b052ac7ef07ad5cd030e0f5a26f673b3.jpg",
+    "title": "현대 면세점\n제휴 혜택",
+    "subtitle": "edm 수속 고객, 인천공항점 할인",
+    "light": false
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202603241612_e4f6600e2e060db510dbcb25c52624f8.png",
+    "title": "특별한 유학 생활\nedm 커뮤니티",
+    "subtitle": "edm유학센터 수속 고객 단독 제공",
+    "light": false
+  },
+  {
+    "image": "https://s3.ap-northeast-2.amazonaws.com/img.edmuhak.com/contentItem/images/202605151224_55d0056c1fc2632723abd458ee72648a.jpg",
+    "title": "빠르고 정확한 견적\nedm QPro 출시",
+    "subtitle": "국내유일, 어학연수 자동 견적 시스템",
+    "light": true
+  }
+]
